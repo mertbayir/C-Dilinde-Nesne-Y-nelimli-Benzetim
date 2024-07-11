@@ -1,0 +1,1 @@
+Hocam kodumda system("CLS"); Komutunu kullandığım takdirde kodumda anlamsız bir hata oluyor.Bazen tek bir canlı kalıyor doğru çıktı veriyor bazen de sonda 2 veya 3 canlı daha kalıyor. Ben de alternatif olarak kaçış dizisi kullanarak ekranı temizliyorum. Böyle yapınca görebildiğim herhangi bir sorun olmadı.
